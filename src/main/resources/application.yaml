@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: w25-food-backend
+  data:
+    mongodb:
+      uri: ${MONGODB_URI}
